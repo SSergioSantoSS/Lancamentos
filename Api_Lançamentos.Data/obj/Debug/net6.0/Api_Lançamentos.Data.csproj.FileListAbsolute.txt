@@ -1,0 +1,14 @@
+C:\Projetos\ProjVS\VS22\API_Lançamento\Api_Lançamentos.Data\bin\Debug\net6.0\Api_Lançamentos.Data.deps.json
+C:\Projetos\ProjVS\VS22\API_Lançamento\Api_Lançamentos.Data\bin\Debug\net6.0\Api_Lançamentos.Data.runtimeconfig.json
+C:\Projetos\ProjVS\VS22\API_Lançamento\Api_Lançamentos.Data\bin\Debug\net6.0\Api_Lançamentos.Data.dll
+C:\Projetos\ProjVS\VS22\API_Lançamento\Api_Lançamentos.Data\bin\Debug\net6.0\Api_Lançamentos.Data.pdb
+C:\Projetos\ProjVS\VS22\API_Lançamento\Api_Lançamentos.Data\obj\Debug\net6.0\Api_Lançamentos.Data.csproj.AssemblyReference.cache
+C:\Projetos\ProjVS\VS22\API_Lançamento\Api_Lançamentos.Data\obj\Debug\net6.0\Api_Lançamentos.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ProjVS\VS22\API_Lançamento\Api_Lançamentos.Data\obj\Debug\net6.0\Api_Lançamentos.Data.AssemblyInfoInputs.cache
+C:\Projetos\ProjVS\VS22\API_Lançamento\Api_Lançamentos.Data\obj\Debug\net6.0\Api_Lançamentos.Data.AssemblyInfo.cs
+C:\Projetos\ProjVS\VS22\API_Lançamento\Api_Lançamentos.Data\obj\Debug\net6.0\Api_Lançamentos.Data.csproj.CoreCompileInputs.cache
+C:\Projetos\ProjVS\VS22\API_Lançamento\Api_Lançamentos.Data\obj\Debug\net6.0\Api_Lançamentos.Data.dll
+C:\Projetos\ProjVS\VS22\API_Lançamento\Api_Lançamentos.Data\obj\Debug\net6.0\refint\Api_Lançamentos.Data.dll
+C:\Projetos\ProjVS\VS22\API_Lançamento\Api_Lançamentos.Data\obj\Debug\net6.0\Api_Lançamentos.Data.pdb
+C:\Projetos\ProjVS\VS22\API_Lançamento\Api_Lançamentos.Data\obj\Debug\net6.0\Api_Lançamentos.Data.genruntimeconfig.cache
+C:\Projetos\ProjVS\VS22\API_Lançamento\Api_Lançamentos.Data\obj\Debug\net6.0\ref\Api_Lançamentos.Data.dll
